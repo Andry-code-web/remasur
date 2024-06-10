@@ -2,8 +2,8 @@
     --bg--cabezera: #fff;
     --bg--cabezera--hover: #ebebeb;
     --bg--select: #0000007a;
-    --bg--cuerpo--uno: #66075F;
-    --bg--cuerpo--dos: #330330;
+    --bg--cuerpo--dos: #770710;
+    --bg--cuerpo--uno: #B51014;
     --color--cabezera: #000;
 }
 
@@ -35,6 +35,7 @@ body::-webkit-scrollbar-thumb {
     background: linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(255,76,125,1) 50%, rgba(255,0,0,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000",endColorstr="#ff0000",GradientType=1);
 }
+
 
 .circle {
     width: 24px;

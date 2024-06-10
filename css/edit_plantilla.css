@@ -178,6 +178,13 @@ h2 {
     padding-bottom: 5rem;
 }
 
+.promos h1{
+    font-size: 2.8rem;
+    font-family: var(--letra--banner);
+    font-weight: 600;
+    color: var(--bg-cabezera-hover);
+}
+
 .post{
     width: 80%;
 }
